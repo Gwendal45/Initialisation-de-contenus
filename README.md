@@ -1,3 +1,3 @@
-# Parcours de lectures
+# Parcours de lectures/initialisation de contenus
 Projet d'écriture en cours, table de correspondances entre notions pour faire des liens entre notions, et, suivant le contexte, avec des problèmes ou des thèses de recherche.
-Autrement dit comme ceci : Liste de sujets ouverts pour avancer, par la lecture, dans les liens permettant d'approfondir la définition des grandes et des petites notions.
+Etapes suivante : Production de plans détaillés prennant en compte les grandes et les petites notions
